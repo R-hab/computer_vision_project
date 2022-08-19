@@ -45,7 +45,7 @@ In order to install all the packages in the `requirement.txt` file, simply use t
 2. Try different uses of the attention mechanism.
 ## References
 
-- FER-2013 dataset source: [FER-2013 dataset]((https://www.kaggle.com/datasets/msambare/fer2013))
+- FER-2013 dataset source: [FER-2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013)
 
 ## Notes
 
