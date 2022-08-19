@@ -31,9 +31,6 @@ Over the last few years, there is an increase in the desire to use deep learning
 
 The proposed architecture used for this work is further explained in the report
 
-<p align="center">
-  <img src=".\res\Architecture.png" width="350" alt="accessibility text">
-</p>
 ## Requirement
 
 To run this project, you need to install several packages. For convenience, we created a `requirement.txt` file consists of all the packages used in this projcet.
