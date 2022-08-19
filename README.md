@@ -2,8 +2,7 @@
 ## Table of contents
 - [General info](#general-info)
 - [Background](#Background)
-- [Repository Description](#repository-description)
-- [Attention Mechanism](#Attention-Mechanism)
+- [file Description](#file-description)
 - [Architecture](#Architecture)
 - [Requirement](#Requirement)
 - [Further development ideas](#further-development-ideas)
@@ -15,7 +14,7 @@ In this project, we used FER2013 dataset to accomplish the project and we used o
 
 Over the last few years, there is an increase in the desire to use deep learning tools to understand human behavior patterns. One of the most trendy challenges in this field is facial expression recognition. Facial expressions are a form of nonverbal communication. The immediate association when talking about human behavior is facial expression and, it's can tell us a lot about human emotions. The challenge is predicting the underlying image to one of seven different emotions (happiness, sadness, anger, fear, disgust, surprise, neutral).
 
-## Repository Description
+## file Description
 
 | Filename                    | description                                                                                       |
 | --------------------------- | ------------------------------------------------------------------------------------------------- |
