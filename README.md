@@ -4,7 +4,6 @@
 - [Background](#Background)
 - [file Description](#file-description)
 - [Architecture](#Architecture)
-- [Requirement](#Requirement)
 - [Further development ideas](#further-development-ideas)
 - [References](#References)
 - [Notes](#Notes)
@@ -25,11 +24,6 @@ Over the last few years, there is an increase in the desire to use deep learning
 
 The proposed architecture used for this work is further explained in the report
 
-## Requirement
-
-To run this project, you need to install several packages. For convenience, we created a `requirement.txt` file consists of all the packages used in this projcet.
-
-In order to install all the packages in the `requirement.txt` file, simply use to command `pip install -r requirements.txt`.
 ## Further development ideas
 
 1. expand our work to more facial expression datasets.
